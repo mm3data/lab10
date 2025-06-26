@@ -44,6 +44,8 @@ Aging Type | Absolute
 Secure Static Address Aging | 0
 Sticky MAC Address | 0  
 ![image](https://github.com/user-attachments/assets/937ea7e3-702d-4deb-8b91-533ec5dd61c0)  
+![image](https://github.com/user-attachments/assets/4089f4c5-e140-41d8-85c4-a125eca8ba9f)
+
 
 
 
