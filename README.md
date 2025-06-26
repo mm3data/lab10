@@ -33,6 +33,18 @@ PC B | NIC | DHCP | 255.255.255.0
 ![image](https://github.com/user-attachments/assets/b4980fa3-b967-499e-8d71-1c91f10b929a)  
 ![image](https://github.com/user-attachments/assets/100164e8-7032-4e3d-800b-d9bf558b00e1)  
 
+--- | Конфигурация безопасности порта по умолчанию | ---
+-- | -- | ---
+Функция | Настройка по умолчанию 
+Защита портов | Disabled
+Максимальное количество записей MAC-адресов | 1 
+Режим проверки на нарушение безопасности | Shutdown
+Aging Time | 0 mins  
+Aging Type | Absolute  
+Secure Static Address Aging | 0
+Sticky MAC Address | 0  
+![image](https://github.com/user-attachments/assets/937ea7e3-702d-4deb-8b91-533ec5dd61c0)  
+
 
 
 
