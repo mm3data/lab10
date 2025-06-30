@@ -55,6 +55,8 @@ Sticky MAC Address | 0
 ![image](https://github.com/user-attachments/assets/4f7959bd-a8ea-48a2-9c37-559364f6ae38)  
 ![image](https://github.com/user-attachments/assets/a99900de-e7cf-473b-8fd6-a17f9109d2ee)  
 ![image](https://github.com/user-attachments/assets/d5ad64be-6dfc-4f61-8d91-63e08060c367)  
+![image](https://github.com/user-attachments/assets/6e92fce8-ccdc-496b-8330-b2dbec531637)  
+![image](https://github.com/user-attachments/assets/a5e18f6c-0d57-43e1-97a4-4a3b619c98fa)  
 ![image](https://github.com/user-attachments/assets/1e32c593-55ef-4535-a880-b6162c8d70e2)
 ![image](https://github.com/user-attachments/assets/458b481d-ba57-4eb9-be27-9dd32b338d89)  
 ![image](https://github.com/user-attachments/assets/a4472764-daad-4a10-8157-a61b9898ba4e)  
